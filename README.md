@@ -1,5 +1,7 @@
 # class-list
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ForbesLindesay/class-list.svg)](https://greenkeeper.io/)
+
 A cross browser class list
 
 ## Example
